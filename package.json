@@ -1,0 +1,11 @@
+{
+  "name": "ai-receptionist",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A multi-industry AI voice receptionist built with LiveKit and OpenAI realtime audio.",
+  "scripts": {
+    "frontend:dev": "npm --prefix frontend run dev",
+    "frontend:build": "npm --prefix frontend run build",
+    "frontend:lint": "npm --prefix frontend run lint"
+  }
+}

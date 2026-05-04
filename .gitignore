@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+auto_db.sqlite
+call_centre.sqlite
+backend/business_profile.json
+
+frontend/node_modules/
+frontend/dist/
+
+.npm-cache/
+.pip-cache/
+.tmp/
