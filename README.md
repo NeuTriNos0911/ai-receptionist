@@ -5,6 +5,14 @@ by creating one JSON profile, then callers can speak with it through LiveKit voi
 callers, answers from the profile, takes messages, captures appointment requests, saves leads, and
 asks for human callbacks when it should not guess.
 
+## Project Snapshot
+
+- Full-stack voice AI MVP with a React frontend and Python backend.
+- LiveKit-powered browser voice calls.
+- OpenAI realtime audio agent with business-specific prompts.
+- SQLite lead capture for customers, messages, callbacks, and appointment requests.
+- Reusable business profile system for adapting the receptionist to different industries.
+
 ## What This Does
 
 - Browser voice call UI with LiveKit.
